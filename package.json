@@ -1,0 +1,25 @@
+{
+  "name": "nb-env",
+  "version": "1.0.0",
+  "description": "Nurimba enviroment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nurimba <contato@nurimba.com> (http://nurimba.com)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp-nodemon": "^2.0.6",
+    "wrench": "^1.5.8"
+  },
+  "dependencies": {
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "helmet": "^1.1.0"
+  },
+  "engines": {
+    "node": "~4.2.6",
+    "npm": "~3.7.1"
+  }
+}

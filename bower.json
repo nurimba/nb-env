@@ -1,0 +1,16 @@
+{
+  "name": "nb-env",
+  "description": "Nurimba enviroment",
+  "main": "server.js",
+  "authors": [
+    "Nurimba <contato@nurimba.com> (http://nurimba.com)"
+  ],
+  "license": "UNLICENSED",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
